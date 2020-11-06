@@ -1,0 +1,17 @@
+<resources>
+        <string name="app_name">予定表タイマー</string>
+        <string name="main">メニュー画面</string>
+        <string name="move">今日やること</string>
+        <string name="move01">タイマー</string>
+        <string name="sub">今日やること</string>
+        <string name="sub01">タイマー</string>
+        <string name="return_sub">戻る</string>
+        <string name="hint_key">今日やること</string>
+        <string name="hint_value">時間(分)</string>
+        <string name="insert">追加</string>
+        <string name="read">表示</string>
+        <string name="Start">スタート</string>
+        <string name="reset">リセット</string>
+        <string name="_00_00">00:00</string>
+
+</resources>
